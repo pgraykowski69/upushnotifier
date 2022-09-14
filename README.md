@@ -1,4 +1,6 @@
-# PushNotifier (V2) for Python
+# PushNotifier (V2) for MicroPython.  Tested on RP2
+
+Extends from pushnotifier-python 
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pushnotifier.svg)
 [![PyPI version](https://badge.fury.io/py/pushnotifier.svg)](https://badge.fury.io/py/pushnotifier)
@@ -22,7 +24,7 @@ Easily send
 -   urls 🌎
 -   images 🖼️
 
-via python to all your devices. For more info visit [pushnotifier.de](https://pushnotifier.de)
+via micropython to all your devices. For more info visit [pushnotifier.de](https://pushnotifier.de)
 
 ## Installation
 **Note: you have to have `requests` installed (`pip install requests`)**
